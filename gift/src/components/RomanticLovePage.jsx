@@ -169,7 +169,7 @@ export default function RomanticLovePage() {
       )}
 
       <audio ref={audioRef} autoPlay loop>
-        <source src="/music/love.mp3" type="audio/mpeg" />
+        <source src="public/music/love.mp3" type="audio/mpeg" />
       </audio>
 
       <div
